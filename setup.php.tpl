@@ -51,7 +51,7 @@ function plugin_version_{LNAME}() {
    return [
       'name'           => '{NAME}',
       'version'        => PLUGIN_{UNAME}_VERSION,
-      'author'         => '<a href="http://www.teclib.com">Teclib\'</a>',
+      'author'         => '<a href="https://www.systemscorp.com.ar">SystemsCorp</a>',
       'license'        => '',
       'homepage'       => '',
       'requirements'   => [
